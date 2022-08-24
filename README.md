@@ -4,4 +4,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 (https://github.com/QasimWani/LeetHub)
 
-My solutions on the programming platform LeetCode - https://leetcode.com/
+My solutions on the programming platform LeetCode. Most problems solved in TypeScript and JavaScript. - https://leetcode.com/
