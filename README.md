@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My solutions on the programming platform LeetCode. Most problems solved in TypeScript and JavaScript. All solutions tracked by LeetHub.
+My solutions on the programming platform LeetCode. Problems solved in JavaScript.
 
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub]
 
