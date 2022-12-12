@@ -10,7 +10,7 @@ function interpret(command: string): string {
             concatString.push("o")
         }
 
-        if(command[i] === "(" && command[i + 1] === "a" && command[i + 2] === "l" &&       command[i + 3] === ")") {
+        if(command[i] === "(" && command[i + 1] === "a" && command[i + 2] === "l" && command[i + 3] === ")") {
             concatString.push("al")
         }
     }
